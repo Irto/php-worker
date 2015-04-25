@@ -1,5 +1,5 @@
 {
-    "name": "irto/api-worker",
+    "name": "irto/php-worker",
     "description": "Simple PHP Worker to run tasks in background",
     "require": {
         "react/event-loop": "0.4.*",
