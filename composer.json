@@ -1,5 +1,6 @@
 {
-    "name": "gamergrade/api-worker",
+    "name": "irto/api-worker",
+    "description": "Simple PHP Worker to run tasks in background",
     "require": {
         "react/event-loop": "0.4.*",
         "illuminate/container": "~5.0",
